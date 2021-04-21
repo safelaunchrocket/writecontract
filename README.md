@@ -1,4 +1,4 @@
-# Write Contract
+# SLR Contract
 Etherscan write contract
 
 # Usage
